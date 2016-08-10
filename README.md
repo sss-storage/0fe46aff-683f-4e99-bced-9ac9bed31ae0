@@ -7,5 +7,5 @@ function taco() {
 }
 ```
 
-<img src="file013.jpg" height="" width="100%"/>
+<img src="file013.jpg" height="" width="50%"/>
 
