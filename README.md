@@ -15,4 +15,4 @@ function taco() {
 <img src="file013.jpg" height="" width="50%"/>
 
 
-Don't have rights.
+End of readme
